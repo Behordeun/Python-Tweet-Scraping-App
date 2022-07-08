@@ -112,9 +112,9 @@ elif choose == 'App':
     st.markdown(
         '<p class="font">A Web App for Scraping Data from Twitter</p>',
         unsafe_allow_html=True)  # use st.markdown() with CSS style to create a nice-formatted header/tex
-    """
-    Specify the scraping options available to users
-    """
+    
+    # Specify the scraping options available to users
+    
     option = st.selectbox(
         'Which scraping option will you prefer?',
         ('Scrape without location',
