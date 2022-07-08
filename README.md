@@ -65,7 +65,7 @@ Copy the following content into the created **toml** file.
 deta_key = "xxx.....xxx"
 ```
 
-Please replace the deta_key with the your own deta_key.
+Please replace the deta_key with your own deta_key.
 
 ***Please note that the app is continously being worked on, and new features will continue to be added to the app over time.***
 
