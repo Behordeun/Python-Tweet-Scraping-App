@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+rough.py
+rough-1.py
+rough-2.py
+rough-3.py
+tweet_scraper-Dev_Version.py
+.autogit/
+.history/
+.vscode/
+*.png
+*.jpg
+__blobstorage__/
+__queuestorage__/
+__azurite_db_blob__.json
+__azurite_db_blob_extent__.json
+__azurite_db_queue__.json
+__azurite_db_queue_extent__.json
